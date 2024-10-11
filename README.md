@@ -1,7 +1,7 @@
-# palindrome
+palindrome
 palindrome codes
-#include <stdio.h>
 
+#include <stdio.h>
 int main() {
     char str[100];
     int i, j, len;
